@@ -1,0 +1,65 @@
+{
+  "user2": [
+    {
+            "username": "user2",
+            "password": "123456789",
+            "firstname": "Bastian",
+            "lastname": "Bui",
+            "phone": "0461789898"
+    },
+    {
+            "username": "user2",
+            "firstname": "Ben",
+            "phone": "0460374112"
+    }
+  ],
+
+  "user3": [
+    {
+            "username": "user3",
+            "password": "123456789",
+            "firstname": "Charlie",
+            "lastname": "Nguyen",
+            "phone": "0478374440"
+    },
+    {
+            "username": "user3",
+            "password": "987654321",
+            "firstname": "Charlotte",
+            "lastname": "Tran",
+            "phone": "0563345489"
+    }
+  ],
+
+  "user4": [
+    {
+            "username": "user4",
+            "password": "123456789",
+            "firstname": "Dean",
+            "lastname": "Henderson",
+            "phone": "0787461010"
+    },
+    {
+            "username": "user4",
+            "firstname": "Dany",
+            "lastname": "Truong",
+            "phone": "0896764346"
+    }
+  ],
+
+  "user5": [
+    {
+            "username": "user5",
+            "password": "123456789",
+            "firstname": "Erik",
+            "lastname": "Garcia",
+            "phone": "0817281645"
+    },
+    {
+            "username": "user5",
+            "password": "111111111",
+            "firstname": "Ethan",
+            "phone": "0387286711"
+    }
+  ]
+}
